@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 20px;
+    margin: auto;
+    width: 90%;
+    background-color: #f1f1f1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    padding: 30px;
+    text-align: center;
+    background-color: white;
+}
+
+h2{
+    font-size: 1.6em;
+}
+
+h3{
+    font-size: 1.4em;
+}
+
+.left{
+    float: left;
+    width: 70%;
+    margin-top: 8px;
+    line-height: 1.6em;
+}
+
+.right{
+    float: right;
+    margin-top: 8px;
+    width: 28%;
+    line-height: 1.5em;
+}
+
+.fake-img{
+    background-color: #e5ff00b9;
+    padding: 20px;
+    width: 100%;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+  }
+
+main .article{
+    height: 120px;
+}
+
